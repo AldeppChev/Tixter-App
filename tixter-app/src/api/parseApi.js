@@ -1,15 +1,3 @@
-/*
- * Copyright (c) 2022 Eliott Guillaumin
- * All rights reserved.
- */
-/*
- * Copyright (c) 2022 Eliott Guillaumin
- * All rights reserved.
- */
-/*
- * Copyright (c) 2022 Eliott Guillaumin
- * All rights reserved.
- */
 import Parse from 'parse';
 
 // INITIALISATION
